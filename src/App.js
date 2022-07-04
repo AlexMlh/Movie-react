@@ -5,7 +5,7 @@ import MovieCard from './MovieCard';
 import { useState } from 'react';
 
 // Here is your key: 33346dd8
-const API_URL = 'http://www.omdbapi.com/?i=tt3896198&apikey=33346dd8';
+const API_URL = 'https://www.omdbapi.com/?i=tt3896198&apikey=33346dd8';
 
 export default function App() {
   
